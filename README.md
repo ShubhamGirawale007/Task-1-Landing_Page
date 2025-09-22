@@ -17,9 +17,7 @@ Task-01/
 
 │── index.html # Main HTML file.
 
-│── style.css # CSS styles.
-
-│── task-img/ # Images used (e.g., hero, collection cards).
+│── style.css # CSS styles..
 
 │── README.md # Documentation.
 
