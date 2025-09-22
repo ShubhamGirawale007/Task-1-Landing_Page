@@ -1,7 +1,7 @@
 # Task 1 – Responsive Landing Page (Web Development)
 
 ## 📌 Project Overview
-This is a simple **responsive landing page** built using **HTML & CSS (with a bit of JavaScript for mobile navigation)**.  
+This is a simple **responsive landing page** built using **HTML & CSS **.  
 The project demonstrates:
 - A clean responsive layout.
 - Hero section with background image and gradient overlay.
@@ -33,7 +33,6 @@ Task-01/
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-- **Google Fonts (Poppins)**
 
 ---
 
