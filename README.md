@@ -37,8 +37,7 @@ Task-01/
 ---
 
 ## ▶️ How to Run
-1. Clone this repository or download the ZIP.  
-   ```bash
+click link:-
   (https://github.com/ShubhamGirawale007/task-1_Landing_Page)
 Open the project folder:
 
